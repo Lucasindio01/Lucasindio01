@@ -1,4 +1,4 @@
-## Hi there, my name is **Lucas** 
+## Hi there, my name is **Lucas**
 
 <!--
 **Lucasindio01/Lucasindio01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
